@@ -1,4 +1,4 @@
-# React Store
+# React Express MSSQL App
 
 <img src="assets/react-store.gif" alt="React Store" />
 
