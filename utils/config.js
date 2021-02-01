@@ -4,8 +4,8 @@
 
 var config = {
     "user": "sa",
-    "password": "Bigfix@2018",
-    "server": "10.14.76.28",
+    "password": "XXXXXX",
+    "server": "xx.xx.xx.xx",
     "database": "BFEnterprise",
     "driver": "msnodesqlv8",
     "port": 51423
